@@ -1,0 +1,190 @@
+INFO 2024-04-24 11:27:32,139 Sent request to https://www.cancer.org/sitemap.xml
+INFO 2024-04-24 11:27:32,971 Request code to https://www.cancer.org/sitemap.xml is 200
+INFO 2024-04-24 11:29:32,761 Sent request to https://www.cancer.org/sitemap.xml
+INFO 2024-04-24 11:29:33,156 Request code to https://www.cancer.org/sitemap.xml is 200
+INFO 2024-04-24 11:30:28,641 Sent request to https://www.cancer.org/sitemap.xml
+INFO 2024-04-24 11:30:29,269 Request code to https://www.cancer.org/sitemap.xml is 200
+INFO 2024-04-24 11:31:12,293 Sent request to https://www.cancer.org/sitemap.xml
+INFO 2024-04-24 11:31:12,677 Request code to https://www.cancer.org/sitemap.xml is 200
+INFO 2024-04-29 17:22:48,340 Sent request to https://www.cancer.org/sitemap.xml
+INFO 2024-04-29 17:22:48,763 Request code to https://www.cancer.org/sitemap.xml is 200
+INFO 2024-04-29 17:23:11,148 Sent request to https://www.cancer.org/sitemap.xml
+INFO 2024-04-29 17:23:11,568 Request code to https://www.cancer.org/sitemap.xml is 200
+INFO 2024-04-29 17:23:11,818 Sent request to https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia.html
+INFO 2024-04-29 17:23:12,084 Request code to https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia.html is 200
+INFO 2024-04-29 17:23:12,213 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8669.00.pdf
+INFO 2024-04-29 17:23:13,570 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8669.00.pdf is 200
+INFO 2024-04-29 17:23:13,571 Downloading pdf
+INFO 2024-04-29 17:23:55,542 Sent request to https://www.cancer.org/sitemap.xml
+INFO 2024-04-29 17:23:55,832 Request code to https://www.cancer.org/sitemap.xml is 200
+INFO 2024-04-29 17:23:56,081 Sent request to https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia.html
+INFO 2024-04-29 17:23:56,342 Request code to https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia.html is 200
+INFO 2024-04-29 17:23:56,429 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8669.00.pdf
+INFO 2024-04-29 17:23:56,691 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8669.00.pdf is 200
+INFO 2024-04-29 17:23:56,691 Downloading pdf
+INFO 2024-04-29 17:23:56,695 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8670.00.pdf
+INFO 2024-04-29 17:23:57,715 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8670.00.pdf is 200
+INFO 2024-04-29 17:23:57,716 Downloading pdf
+INFO 2024-04-29 17:23:57,719 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8671.00.pdf
+INFO 2024-04-29 17:23:59,029 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8671.00.pdf is 200
+INFO 2024-04-29 17:23:59,029 Downloading pdf
+INFO 2024-04-29 17:23:59,037 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8672.00.pdf
+INFO 2024-04-29 17:23:59,433 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8672.00.pdf is 200
+INFO 2024-04-29 17:23:59,433 Downloading pdf
+INFO 2024-04-29 17:23:59,438 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8673.00.pdf
+INFO 2024-04-29 17:23:59,698 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8673.00.pdf is 200
+INFO 2024-04-29 17:23:59,698 Downloading pdf
+INFO 2024-04-29 17:23:59,702 Sent request to https://www.cancer.org/cancer/types/acute-myeloid-leukemia.html
+INFO 2024-04-29 17:23:59,940 Request code to https://www.cancer.org/cancer/types/acute-myeloid-leukemia.html is 200
+INFO 2024-04-29 17:24:00,072 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8674.00.pdf
+INFO 2024-04-29 17:24:00,370 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8674.00.pdf is 200
+INFO 2024-04-29 17:24:00,371 Downloading pdf
+INFO 2024-04-29 17:24:00,373 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8675.00.pdf
+INFO 2024-04-29 17:24:01,215 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8675.00.pdf is 200
+INFO 2024-04-29 17:24:01,215 Downloading pdf
+INFO 2024-04-29 17:24:01,220 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8676.00.pdf
+INFO 2024-04-29 17:24:02,264 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8676.00.pdf is 200
+INFO 2024-04-29 17:24:02,264 Downloading pdf
+INFO 2024-04-29 17:24:02,269 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8677.00.pdf
+INFO 2024-04-29 17:24:02,583 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8677.00.pdf is 200
+INFO 2024-04-29 17:24:02,583 Downloading pdf
+INFO 2024-04-29 17:24:02,588 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8678.00.pdf
+INFO 2024-04-29 17:24:02,817 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8678.00.pdf is 200
+INFO 2024-04-29 17:24:02,817 Downloading pdf
+INFO 2024-04-29 17:24:02,822 Sent request to https://www.cancer.org/cancer/types/adrenal-cancer.html
+INFO 2024-04-29 17:24:04,252 Request code to https://www.cancer.org/cancer/types/adrenal-cancer.html is 200
+INFO 2024-04-29 17:24:04,342 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8542.00.pdf
+INFO 2024-04-29 17:24:05,272 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8542.00.pdf is 200
+INFO 2024-04-29 17:24:05,272 Downloading pdf
+INFO 2024-04-29 17:24:05,274 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8543.00.pdf
+INFO 2024-04-29 17:24:05,528 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8543.00.pdf is 200
+INFO 2024-04-29 17:24:05,528 Downloading pdf
+INFO 2024-04-29 17:24:05,531 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8544.00.pdf
+INFO 2024-04-29 17:24:06,540 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8544.00.pdf is 200
+INFO 2024-04-29 17:24:06,540 Downloading pdf
+INFO 2024-04-29 17:24:06,544 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8545.00.pdf
+INFO 2024-04-29 17:24:06,986 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8545.00.pdf is 200
+INFO 2024-04-29 17:24:06,987 Downloading pdf
+INFO 2024-04-29 17:24:06,994 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8546.00.pdf
+INFO 2024-04-29 17:24:07,919 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8546.00.pdf is 200
+INFO 2024-04-29 17:24:07,919 Downloading pdf
+INFO 2024-04-29 17:24:07,926 Sent request to https://www.cancer.org/cancer/types/anal-cancer.html
+INFO 2024-04-29 17:24:08,138 Request code to https://www.cancer.org/cancer/types/anal-cancer.html is 200
+INFO 2024-04-29 17:24:08,254 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8547.00.pdf
+INFO 2024-04-29 17:24:09,599 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8547.00.pdf is 200
+INFO 2024-04-29 17:24:09,599 Downloading pdf
+INFO 2024-04-29 17:24:09,604 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8548.00.pdf
+INFO 2024-04-29 17:24:10,040 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8548.00.pdf is 200
+INFO 2024-04-29 17:24:10,040 Downloading pdf
+INFO 2024-04-29 17:24:10,043 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8549.00.pdf
+INFO 2024-04-29 17:24:11,149 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8549.00.pdf is 200
+INFO 2024-04-29 17:24:11,149 Downloading pdf
+INFO 2024-04-29 17:24:11,153 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8550.00.pdf
+INFO 2024-04-29 17:24:11,671 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8550.00.pdf is 200
+INFO 2024-04-29 17:24:11,671 Downloading pdf
+INFO 2024-04-29 17:24:11,675 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8551.00.pdf
+INFO 2024-04-29 17:24:11,961 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8551.00.pdf is 200
+INFO 2024-04-29 17:24:11,962 Downloading pdf
+INFO 2024-04-29 17:24:11,967 Sent request to https://www.cancer.org/cancer/types/basal-and-squamous-cell-skin-cancer.html
+INFO 2024-04-29 17:24:12,225 Request code to https://www.cancer.org/cancer/types/basal-and-squamous-cell-skin-cancer.html is 200
+INFO 2024-04-29 17:24:12,316 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8823.00.pdf
+INFO 2024-04-29 17:24:12,657 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8823.00.pdf is 200
+INFO 2024-04-29 17:24:12,657 Downloading pdf
+INFO 2024-04-29 17:24:12,660 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8824.00.pdf
+INFO 2024-04-29 17:24:12,986 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8824.00.pdf is 200
+INFO 2024-04-29 17:24:12,986 Downloading pdf
+INFO 2024-04-29 17:24:12,989 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8825.00.pdf
+INFO 2024-04-29 17:24:14,271 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8825.00.pdf is 200
+INFO 2024-04-29 17:24:14,272 Downloading pdf
+INFO 2024-04-29 17:24:14,275 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8826.00.pdf
+INFO 2024-04-29 17:24:14,632 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8826.00.pdf is 200
+INFO 2024-04-29 17:24:14,632 Downloading pdf
+INFO 2024-04-29 17:24:14,636 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8827.00.pdf
+INFO 2024-04-29 17:24:14,920 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8827.00.pdf is 200
+INFO 2024-04-29 17:24:14,920 Downloading pdf
+INFO 2024-04-29 17:24:14,922 Sent request to https://www.cancer.org/cancer/types/bile-duct-cancer.html
+INFO 2024-04-29 17:24:15,987 Request code to https://www.cancer.org/cancer/types/bile-duct-cancer.html is 200
+INFO 2024-04-29 17:24:16,116 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8552.00.pdf
+INFO 2024-04-29 17:24:16,537 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8552.00.pdf is 200
+INFO 2024-04-29 17:24:16,538 Downloading pdf
+INFO 2024-04-29 17:24:16,542 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8553.00.pdf
+INFO 2024-04-29 17:24:16,782 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8553.00.pdf is 200
+INFO 2024-04-29 17:24:16,782 Downloading pdf
+INFO 2024-04-29 17:24:16,787 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8554.00.pdf
+INFO 2024-04-29 17:24:17,116 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8554.00.pdf is 200
+INFO 2024-04-29 17:24:17,116 Downloading pdf
+INFO 2024-04-29 17:24:17,119 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8555.00.pdf
+INFO 2024-04-29 17:24:17,466 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8555.00.pdf is 200
+INFO 2024-04-29 17:24:17,466 Downloading pdf
+INFO 2024-04-29 17:24:17,473 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8556.00.pdf
+INFO 2024-04-29 17:24:18,847 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8556.00.pdf is 200
+INFO 2024-04-29 17:24:18,847 Downloading pdf
+INFO 2024-04-29 17:24:18,854 Sent request to https://www.cancer.org/cancer/types/bladder-cancer.html
+INFO 2024-04-29 17:24:20,152 Request code to https://www.cancer.org/cancer/types/bladder-cancer.html is 200
+INFO 2024-04-29 17:24:20,244 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8557.00.pdf
+INFO 2024-04-29 17:24:20,542 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8557.00.pdf is 200
+INFO 2024-04-29 17:24:20,542 Downloading pdf
+INFO 2024-04-29 17:24:20,545 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8558.00.pdf
+INFO 2024-04-29 17:24:21,465 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8558.00.pdf is 200
+INFO 2024-04-29 17:24:21,465 Downloading pdf
+INFO 2024-04-29 17:24:21,470 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8559.00.pdf
+INFO 2024-04-29 17:24:21,774 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8559.00.pdf is 200
+INFO 2024-04-29 17:24:21,775 Downloading pdf
+INFO 2024-04-29 17:24:21,779 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8560.00.pdf
+INFO 2024-04-29 17:24:22,105 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8560.00.pdf is 200
+INFO 2024-04-29 17:24:22,105 Downloading pdf
+INFO 2024-04-29 17:24:22,108 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8561.00.pdf
+INFO 2024-04-29 17:24:22,450 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8561.00.pdf is 200
+INFO 2024-04-29 17:24:22,450 Downloading pdf
+INFO 2024-04-29 17:24:22,453 Sent request to https://www.cancer.org/cancer/types/bone-cancer.html
+INFO 2024-04-29 17:24:22,686 Request code to https://www.cancer.org/cancer/types/bone-cancer.html is 200
+INFO 2024-04-29 17:24:22,773 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8562.00.pdf
+INFO 2024-04-29 17:24:23,819 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8562.00.pdf is 200
+INFO 2024-04-29 17:24:23,819 Downloading pdf
+INFO 2024-04-29 17:24:23,825 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8563.00.pdf
+INFO 2024-04-29 17:24:25,007 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8563.00.pdf is 200
+INFO 2024-04-29 17:24:25,007 Downloading pdf
+INFO 2024-04-29 17:24:25,009 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8564.00.pdf
+INFO 2024-04-29 17:24:25,537 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8564.00.pdf is 200
+INFO 2024-04-29 17:24:25,537 Downloading pdf
+INFO 2024-04-29 17:24:25,540 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8565.00.pdf
+INFO 2024-04-29 17:24:25,836 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8565.00.pdf is 200
+INFO 2024-04-29 17:24:25,837 Downloading pdf
+INFO 2024-04-29 17:24:25,842 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8566.00.pdf
+INFO 2024-04-29 17:24:26,697 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8566.00.pdf is 200
+INFO 2024-04-29 17:24:26,697 Downloading pdf
+INFO 2024-04-29 17:24:26,699 Sent request to https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-adults.html
+INFO 2024-04-29 17:24:26,972 Request code to https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-adults.html is 200
+INFO 2024-04-29 17:24:27,084 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8567.00.pdf
+INFO 2024-04-29 17:24:27,417 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8567.00.pdf is 200
+INFO 2024-04-29 17:24:27,417 Downloading pdf
+INFO 2024-04-29 17:24:27,421 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8568.00.pdf
+INFO 2024-04-29 17:24:27,762 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8568.00.pdf is 200
+INFO 2024-04-29 17:24:27,762 Downloading pdf
+INFO 2024-04-29 17:24:27,767 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8569.00.pdf
+INFO 2024-04-29 17:24:28,974 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8569.00.pdf is 200
+INFO 2024-04-29 17:24:28,975 Downloading pdf
+INFO 2024-04-29 17:24:28,979 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8570.00.pdf
+INFO 2024-04-29 17:24:29,337 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8570.00.pdf is 200
+INFO 2024-04-29 17:24:29,337 Downloading pdf
+INFO 2024-04-29 17:24:29,343 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8571.00.pdf
+INFO 2024-04-29 17:24:29,625 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8571.00.pdf is 200
+INFO 2024-04-29 17:24:29,625 Downloading pdf
+INFO 2024-04-29 17:24:29,628 Sent request to https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-children.html
+INFO 2024-04-29 17:24:29,926 Request code to https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-children.html is 200
+INFO 2024-04-29 17:24:30,013 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8572.00.pdf
+INFO 2024-04-29 17:24:31,375 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8572.00.pdf is 200
+INFO 2024-04-29 17:24:31,375 Downloading pdf
+INFO 2024-04-29 17:24:31,379 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8573.00.pdf
+INFO 2024-04-29 17:24:31,690 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8573.00.pdf is 200
+INFO 2024-04-29 17:24:31,690 Downloading pdf
+INFO 2024-04-29 17:24:31,695 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8574.00.pdf
+INFO 2024-04-29 17:24:32,996 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8574.00.pdf is 200
+INFO 2024-04-29 17:24:32,996 Downloading pdf
+INFO 2024-04-29 17:24:32,998 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8575.00.pdf
+INFO 2024-04-29 17:24:33,344 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8575.00.pdf is 200
+INFO 2024-04-29 17:24:33,345 Downloading pdf
+INFO 2024-04-29 17:24:33,347 Sent request to https://www.cancer.org//content/dam/CRC/PDF/Public/8576.00.pdf
+INFO 2024-04-29 17:24:33,584 Request code to https://www.cancer.org//content/dam/CRC/PDF/Public/8576.00.pdf is 200
+INFO 2024-04-29 17:24:33,585 Downloading pdf
+INFO 2024-04-29 17:24:33,587 Finished parsing

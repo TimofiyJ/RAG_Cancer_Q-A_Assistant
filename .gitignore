@@ -1,0 +1,9 @@
+.venv
+data
+parser/parser.log
+./data-cleaning.ipynb
+.env
+assertion.log
+azure_openai_usage.log
+openai_usage.log
+__pycache__
