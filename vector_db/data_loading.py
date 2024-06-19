@@ -31,7 +31,7 @@ def load_data():
     """Gets clean data, transform it into documents and then into nodes,
     insert data into vectordb
     """
-    documents = data_preparation.get_clean_documents(os.listdir("../data"))
+    documents = data_preparation.get_clean_documents(os.listdir("./data"))
     nodes = data_preparation.get_nodes(documents)
 
     client = chromadb.PersistentClient(path="./cancer")

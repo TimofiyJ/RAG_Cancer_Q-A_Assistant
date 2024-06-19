@@ -5,8 +5,7 @@ import os
 from dotenv import load_dotenv
 import dspy
 
-load_dotenv()
-
+load_dotenv(override=True)
 
 class GenerateAnswer(dspy.Signature):
     """With the provided context answer the question about cancer, as medical condition, mostly based on the information you have been provided with. Answer has to be
@@ -26,7 +25,16 @@ class GenerateAnswer(dspy.Signature):
 class RAG(dspy.Module):
     def __init__(self):
         super().__init__()
-        self.retrieve = None
+        self.huggingface_ef = embedding_functions.HuggingFaceEmbeddingFunction(
+            api_key=os.getenv("HUGGING_FACE_API_KEY"),
+            model_name=os.getenv("RETREIVAL_MODEL_NAME"),
+        )
+        self.retrieve = ChromadbRM(
+            "cancer",
+            persist_directory=os.path.join("vector_db","cancer"),
+            embedding_function=self.huggingface_ef,
+            k=2,
+        )
         self.generate_answer = dspy.ChainOfThought(GenerateAnswer)
 
     def forward(self, question):
@@ -36,33 +44,25 @@ class RAG(dspy.Module):
 
 
 def main():
-    huggingface_ef = embedding_functions.HuggingFaceEmbeddingFunction(
-        api_key=os.getenv("HUGGING_FACE_API_KEY"),
-        model_name=os.getenv("RETREIVAL_MODEL_NAME"),
-    )
 
-    client = chromadb.PersistentClient("./vector_db/cancer")
+    client = chromadb.PersistentClient(os.path.join("vector_db","cancer"))
     collection = client.get_or_create_collection(
         name="cancer"
     )  # create collection if it doesn't exist
-
-    retriever_model = ChromadbRM(
-        "cancer",
-        persist_directory="./vector_db/cancer",
-        embedding_function=huggingface_ef,
-        k=2,
-    )
 
     model = dspy.GROQ(
         model=os.getenv("LLM_NAME"), api_key=os.environ.get("GROQ_API_KEY")
     )
 
-    dspy.settings.configure(lm=model, rm=retriever_model)
+    client = chromadb.PersistentClient(os.path.join("vector_db","cancer"))
 
+    collection = client.get_or_create_collection(
+        name="cancer"
+    )  
+    dspy.settings.configure(lm=model)
     question = input("What is your question?\n")
 
     rag = RAG()
-    rag.retrieve = retriever_model
 
     pred = rag(question)
 
